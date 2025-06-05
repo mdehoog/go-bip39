@@ -14,8 +14,8 @@ A golang implementation of the BIP0039 spec for mnemonic seeds
 package main
 
 import (
-  "github.com/tyler-smith/go-bip39"
-  "github.com/tyler-smith/go-bip32"
+  "github.com/alexvec/go-bip39"
+  "github.com/alexvec/go-bip32"
   "fmt"
 )
 
